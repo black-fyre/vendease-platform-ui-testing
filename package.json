@@ -1,0 +1,15 @@
+{
+  "name": "vendease",
+  "version": "1.0.0",
+  "description": "Assessment for Vendease recruiting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Fehintoluwa Dahunsi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
